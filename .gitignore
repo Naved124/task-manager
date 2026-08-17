@@ -1,0 +1,5 @@
+node_modules
+.env
+dev_log.txt
+client/dist
+.DS_Store
